@@ -7,3 +7,4 @@ ord fields, including validation and error handling.
 This feature allows Admin to change cell's information also add new cell as well as delete a cell.
 **Status: Implemented**
 
+# Implemented Features
